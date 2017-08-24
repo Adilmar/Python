@@ -1,0 +1,24 @@
+Nome: adilmar
+Celular: 1
+Fixo: 2
+email: 3
+Idade: 25
+-------------------------------
+Nome: pedro
+Celular: 2
+Fixo: 3
+email: 4
+Idade: 27
+-------------------------------
+Nome: maria
+Celular: 4
+Fixo: 5
+email: 6
+Idade: 48
+-------------------------------
+Nome: josé
+Celular: 999999
+Fixo: 333333
+email: jose@bol.com.br
+Idade: 49
+-------------------------------
