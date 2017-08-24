@@ -2,7 +2,7 @@
 Curso de Introdução Programação em Python
 
 
-# Ministrante: Adilmar Coelho dantas
+# Ministrante: Adilmar Coelho Dantas
 Doutorando em Ciência da Computação 
 Universidade Federal de Uberlândia
 
