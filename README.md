@@ -6,6 +6,6 @@ Curso de Introdução Programação em Python
 Doutorando em Ciência da Computação 
 Universidade Federal de Uberlândia
 
-Dia: 17/09/2017 
+Dia: 13/09/2017  - POSMEC 
 
 
