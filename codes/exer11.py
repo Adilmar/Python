@@ -1,4 +1,5 @@
-# coding: utf-8
+#!/usr/bin/python
+# -*- coding: utf8 -*-
 
 lista = [ 'adilmar', 786 , 2.23, 'pedro', 70.2 ]
 

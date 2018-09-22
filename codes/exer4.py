@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf8 -*-
 
 a = 5 
 b = 2

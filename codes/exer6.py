@@ -1,4 +1,6 @@
-# -*- coding: cp1252 -*-
+#!/usr/bin/python
+# -*- encoding: utf-8 -*-
+
 nome  = raw_input("Digite seu nome: ")
 print "\nOiii,",nome," vamos conversar..."
 ano  = raw_input("\nEm que ano você nasceu ? ")

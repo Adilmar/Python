@@ -1,4 +1,5 @@
-# Function definition is here
+#!/usr/bin/python
+# -*- coding: utf8 -*-
 
 def funcao1():                               #basic function
    print "Essa e uma funcao"                 #print basic text
@@ -16,5 +17,5 @@ def verifica(x):                             #function pair / odd
     
 funcao1()    # call the function
 soma(2,5)
-verifica(5)
+pyverifica(5)
 

@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf8 -*-
+
 nome = "Adilmar"
 sobrenome= "Coelho Dantas"
 

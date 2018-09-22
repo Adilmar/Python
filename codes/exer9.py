@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- encoding: utf-8 -*-
+
 file = open("dados.txt","w") 
  
 file.write("Nome: Adilmar\n") 

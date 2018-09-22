@@ -1,4 +1,6 @@
-# -*- coding: cp1252 -*-
+#!/usr/bin/python
+# -*- encoding: utf-8 -*-
+
 a=20
 b=30
 i = 1
