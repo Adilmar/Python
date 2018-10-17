@@ -13,4 +13,6 @@ Universidade Federal de Uberlândia
 
 -Dia: 03/10/2018  - FACOM - MONTE 
 
+-Dia: 17/10/2018  - IFTM - UBERLÂNDIA
+
 
